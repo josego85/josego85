@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi, I'm José González von Schmeling 👋
 
+- 🔭 I’m currently working on PHP (Laravel), JavaScript and GIS
+- 🌱 I’m currently learning NodeJS, ReactJS
+- 👯 I’m looking to collaborate on Proyectos Beta (https://proyectosbeta.net)
+- 💬 Ask me about GIS, PHP, Laravel, JavaScript, GNU/Linux, Servers
 <!--
 **josego85/josego85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
