@@ -1,6 +1,6 @@
 ### Hi, I'm José González von Schmeling 👋
 
-- 🔭 I’m currently working on PHP (Laravel), JavaScript, GIS, NodeJS and ReactJS
+- 🔭 I’m currently working on PHP (Laravel), JavaScript (NodeJS, ReactJS), and GIS 
 - 👯 I’m looking to collaborate on Proyectos Beta (https://proyectosbeta.net)
 - 💬 Ask me about GIS, PHP, Laravel, JavaScript, GNU/Linux, Servers
 <!--
