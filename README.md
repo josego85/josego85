@@ -1,20 +1,20 @@
 ### Hi, I'm José González von Schmeling 👋
 
-I'm a developer specializing in PHP (Symfony with API Platform), JavaScript (NodeJS, Vue.js), and Geographic Information Systems (GIS). Passionate about technology, open-source software, and GNU/Linux server administration.
+I'm a developer specializing in PHP (Symfony with API Platform, Laravel), JavaScript (NodeJS, Vue.js), and Geographic Information Systems (GIS). Passionate about technology, open-source software, and GNU/Linux server administration (Debian, Ubuntu).
 
 ### 🚀 Current Tech Stack
 
-- **Backend**: PHP (Symfony, API Platform)
+- **Backend**: PHP (Symfony, API Platform, Laravel)
 - **Frontend**: JavaScript (NodeJS, Vue.js)
 - **GIS**: Spatial analysis, geospatial data management and visualization
-- **Infrastructure**: GNU/Linux servers, system administration
+- **Infrastructure**: GNU/Linux servers (Debian, Ubuntu), system administration
 
 ### 💬 Ask me about
 
 - 🗺️ **GIS & Geospatial**: processing, visualization, and analysis
-- 🐘 **PHP & Symfony**: best practices, API Platform
+- 🐘 **PHP & Symfony**: best practices, API Platform, Laravel
 - 📟 **JavaScript**: development with NodeJS, Vue.js
-- 🐧 **GNU/Linux**: system and server administration
+- 🐧 **GNU/Linux**: system and server administration (Debian, Ubuntu)
 
 ### 📫 Connect with me
 
