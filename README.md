@@ -19,6 +19,8 @@ I'm a developer specializing in PHP (Symfony with API Platform, Laravel), JavaSc
 ### 📫 Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-alberto-g-b1b7b899/)
+- [X (Twitter)](https://x.com/josego85)
+- [Mastodon](https://mastodon.social/@josego)
 
 ### 🌱 Currently Learning
 
@@ -28,7 +30,7 @@ I'm a developer specializing in PHP (Symfony with API Platform, Laravel), JavaSc
 ### 👯 I'm Looking to Collaborate On
 
 - Open-source GIS projects
-- Symfony or JavaScript community projects
+- PHP or JavaScript community projects
 
 ### ⚡ Fun Fact
 
