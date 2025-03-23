@@ -19,7 +19,7 @@ I'm a developer specializing in PHP (Symfony with API Platform, Laravel), JavaSc
 ### 📫 Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-alberto-g-b1b7b899/)
-- [X (Twitter)](https://x.com/josego85)
+- [X (Twitter)](https://x.com/josego85py)
 - [Mastodon](https://mastodon.social/@josego)
 
 ### 🌱 Currently Learning
