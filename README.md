@@ -11,9 +11,9 @@ I'm a developer specializing in PHP (Symfony with API Platform, Laravel), JavaSc
 
 ### 💬 Ask me about
 
-- 🗺️ **GIS & Geospatial**: processing, visualization, and analysis
 - 🐘 **PHP & Symfony**: best practices, API Platform, Laravel
 - 📟 **JavaScript**: development with NodeJS, Vue.js
+- 🗺️ **GIS & Geospatial**: processing, visualization, and analysis
 - 🐧 **GNU/Linux**: system and server administration (Debian, Ubuntu)
 
 ### 📫 Connect with me
