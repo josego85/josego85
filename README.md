@@ -4,8 +4,8 @@ I'm a developer specializing in PHP (Symfony with API Platform, Laravel), JavaSc
 
 ### 🚀 Current Tech Stack
 
-- **Backend**: PHP (Symfony, API Platform, Laravel)
-- **Frontend**: JavaScript (NodeJS, Vue.js)
+- **Backend**: PHP (Symfony, API Platform, Laravel), JavaScript (NodeJS)
+- **Frontend**: JavaScript (Vue.js)
 - **GIS**: Spatial analysis, geospatial data management and visualization
 - **Infrastructure**: GNU/Linux servers (Debian, Ubuntu), system administration
 
