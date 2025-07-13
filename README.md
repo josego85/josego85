@@ -24,9 +24,7 @@ I'm a software developer focused on **PHP** (Symfony, API Platform, Laravel), **
 ---
 
 ### 🌱 Currently Exploring
-
-- Cloud technologies (AWS, Docker)  
-- Advanced GIS and remote sensing  
+ 
 - AI agents and tools for LLMs (LangChain, Ollama)
 
 ---
