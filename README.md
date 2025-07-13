@@ -31,8 +31,8 @@ I'm a software developer focused on **PHP** (Symfony, API Platform, Laravel), **
 
 ### 👯 Open to Collaborate On
 
-- Open-source GIS tools  
 - PHP or JavaScript-based community projects  
+- Open-source GIS tools  
 - AI-powered geospatial applications  
 
 ---
