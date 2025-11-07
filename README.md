@@ -16,7 +16,7 @@ I'm a software developer focused on **PHP** (Symfony, API Platform, Laravel), **
 ### 💬 Topics I Enjoy
 
 - 🐘 PHP (Symfony, Laravel, API Platform)  
-- ⚙️ JavaScript (Node.js, Vue.js)  
+- ⚙️ JavaScript (Node.js, Next.js, Vue.js)  
 - 🗺️ GIS and geospatial technologies  
 - 🐧 GNU/Linux systems and server administration  
 - 🤖 AI agents using LangChain and Ollama  
