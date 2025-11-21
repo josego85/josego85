@@ -1,50 +1,134 @@
-### 👋 Hi, I'm José González von Schmeling
+<div align="center">
 
-I'm a software developer focused on **PHP** (Symfony, API Platform, Laravel), **JavaScript** (Node.js, Next.js, Vue.js), and **Geographic Information Systems (GIS)**. I'm passionate about **open-source software**, **geospatial technologies**, and **GNU/Linux system administration** (Debian, Ubuntu).
+# 👋 Hi, I'm José González von Schmeling
 
----
+**Full-Stack Developer | GIS Specialist | Open Source Advocate**
 
-### 🚀 Tech Stack
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/josego85/)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x)](https://x.com/josego85py)
+[![Mastodon](https://img.shields.io/badge/Mastodon-Follow-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@josego)
 
-- **Backend**: PHP (Symfony, API Platform, Laravel), Node.js  
-- **Frontend**: Next.js, Vue.js  
-- **GIS**: Geospatial data processing, spatial analysis, and visualization  
-- **Infrastructure**: GNU/Linux server management (Debian, Ubuntu)
-
----
-
-### 💬 Topics I Enjoy
-
-- 🐘 PHP (Symfony, Laravel, API Platform)  
-- ⚙️ JavaScript (Node.js, Next.js, Vue.js)  
-- 🗺️ GIS and geospatial technologies  
-- 🐧 GNU/Linux systems and server administration  
-- 🤖 AI agents using LangChain and Ollama  
+</div>
 
 ---
 
-### 🌱 Currently Exploring
- 
-- AI agents and tools for LLMs (LangChain, Ollama)
+## 🚀 About Me
+
+I'm a software engineer with a strong focus on building **scalable APIs**, **modern web applications**, and **geospatial solutions**. My expertise spans across full-stack development with a particular passion for backend architectures and GIS technologies.
+
+- 🔭 Currently working with **Symfony**, **Laravel**, **Next.js**, and **Vue.js**
+- 🌱 Exploring **AI agents** powered by LangChain and Ollama
+- 🗺️ Building innovative **GIS applications** for spatial data analysis
+- 🐧 GNU/Linux enthusiast and server administrator (Debian, Ubuntu)
+- 💡 Strong believer in **open-source** contributions and community collaboration
 
 ---
 
-### 👯 Open to Collaborate On
+## 🛠️ Tech Stack
 
-- PHP or JavaScript-based community projects  
-- Open-source GIS tools  
-- AI-powered geospatial applications  
+### Backend Development
+```text
+PHP          ████████████████████░   Symfony, API Platform, Laravel
+Node.js      ███████████████░░░░░   Express, REST APIs
+```
+
+### Frontend Development
+```text
+JavaScript   ████████████████░░░░   Next.js, Vue.js, React
+TypeScript   ███████████████░░░░░   Type-safe applications
+```
+
+### GIS & Geospatial
+```text
+PostGIS      ████████████████░░░░   Spatial databases
+QGIS         ███████████████░░░░░   Geospatial analysis
+Leaflet      ████████████████░░░░   Web mapping
+```
+
+### Infrastructure & Tools
+```text
+Linux        ████████████████████░   Debian, Ubuntu (server admin)
+Docker       ███████████████░░░░░   Containerization
+Git          ████████████████████░   Version control
+CI/CD        ██████████████░░░░░░   Automated deployments
+```
+
+### Currently Exploring
+```text
+AI/ML        ██████████░░░░░░░░░░   LangChain, Ollama
+LLM Tools    █████████░░░░░░░░░░░   AI agent development
+```
 
 ---
 
-### 📫 Let's Connect
+## 💼 Featured Projects
 
-- [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-alberto-g-b1b7b899/)  
-- [X (Twitter)](https://x.com/josego85py)  
-- [Mastodon](https://mastodon.social/@josego)
+> **Note**: Check out my pinned repositories below for highlighted work!
+
+### 🌟 What I Build
+
+- **🔌 RESTful & GraphQL APIs**: Scalable backend services with Symfony and Laravel
+- **🗺️ GIS Applications**: Geospatial data visualization and spatial analysis tools
+- **⚡ Modern Web Apps**: High-performance frontends with Next.js and Vue.js
+- **🤖 AI-Powered Tools**: Intelligent agents leveraging LLMs for automation
+- **🐧 Linux Infrastructure**: Server configuration, automation, and system optimization
 
 ---
 
-### ⚡ Fun Fact
+## 📊 GitHub Activity
 
-I'm a strong believer in the power of open-source communities. Whether it's building APIs, visualizing geodata, or experimenting with AI, I'm always eager to share, learn, and collaborate.
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josego85&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josego85&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+</div>
+
+---
+
+## 🤝 Open to Collaboration
+
+I'm always interested in working on meaningful projects. Let's collaborate if you're building:
+
+- **🌐 API-first applications** with PHP or Node.js
+- **🗺️ Open-source GIS tools** for the community
+- **🤖 AI-powered geospatial applications**
+- **📚 Developer tools** and productivity enhancements
+- **🌍 Open-source projects** that make an impact
+
+---
+
+## 📫 Get in Touch
+
+<div align="center">
+
+**Let's build something amazing together!**
+
+[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josego85@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Message_Me-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/josego85/)
+[![X](https://img.shields.io/badge/X-DM_Me-000000?style=for-the-badge&logo=x)](https://x.com/josego85py)
+
+</div>
+
+---
+
+## ⚡ Fun Facts
+
+- 🐘 I speak fluent PHP and JavaScript (and a bit of Python)
+- 🗺️ I can tell you the coordinates of almost any place (thanks to GIS!)
+- 🐧 My servers run on Debian, my laptop on Ubuntu
+- ☕ Coffee-driven development is my methodology
+- 🌍 Open source isn't just code—it's a philosophy
+
+---
+
+<div align="center">
+
+### 💭 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+![Profile Views](https://komarev.com/ghpvc/?username=josego85&color=blueviolet&style=flat-square&label=Profile+Views)
+
+⭐️ From [josego85](https://github.com/josego85) with passion for open source
+
+</div>
