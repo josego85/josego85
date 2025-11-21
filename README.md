@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm José González von Schmeling
 
-**Full-Stack Developer | GIS Specialist | Open Source Advocate**
+**Full-Stack Developer | GIS Specialist | Open Source Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/josego85/)
 [![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x)](https://x.com/josego85py)
@@ -18,6 +18,7 @@ I'm a software engineer with a strong focus on building **scalable APIs**, **mod
 
 - 🔭 Currently working with **Symfony**, **Laravel**, **Next.js**, and **Vue.js**
 - 🌱 Exploring **AI agents** powered by LangChain and Ollama
+- 📦 Learning **Kubernetes** for container orchestration and cloud-native deployments
 - 🗺️ Building innovative **GIS applications** for spatial data analysis
 - 🐧 GNU/Linux enthusiast and server administrator (Debian, Ubuntu)
 - 💡 Strong believer in **open-source** contributions and community collaboration
@@ -57,6 +58,7 @@ CI/CD        ██████████████░░░░░░   Auto
 ```text
 AI/ML        ██████████░░░░░░░░░░   LangChain, Ollama
 LLM Tools    █████████░░░░░░░░░░░   AI agent development
+Kubernetes   ████░░░░░░░░░░░░░░░░   Container orchestration (learning)
 ```
 
 ---
